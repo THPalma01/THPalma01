@@ -116,10 +116,8 @@ Demonstra base forte em lógica, organização e resolução de problemas.
 
 ## 📫 Contato
 
-* 💼 LinkedIn: [adicione seu LinkedIn](https://www.linkedin.com/in/
-thiago-palma-dev
-Meu perfil
-)
+* 💼 LinkedIn: https://www.linkedin.com/in/thiago-palma-dev
+
 
 ---
 
