@@ -1,7 +1,9 @@
 # 👋 Thiago Palma
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
 📍 São Bernardo do Campo - SP
+
 🎯 Foco em backend, estruturas de dados e construção de sistemas organizados
 
 ---
