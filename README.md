@@ -41,13 +41,13 @@ Minha base é fortemente orientada à **lógica de programação, modelagem de d
 
 ### 🌐 Desenvolvimento Web
 
-**🎨 Frontend (interface e experiência):**
+**🎨 Frontend:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-**⚙️ Backend (regras de negócio e APIs):**
+**⚙️ Backend:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
@@ -116,7 +116,10 @@ Demonstra base forte em lógica, organização e resolução de problemas.
 
 ## 📫 Contato
 
-* 💼 LinkedIn: [adicione seu LinkedIn](https://www.linkedin.com/)
+* 💼 LinkedIn: [adicione seu LinkedIn](https://www.linkedin.com/in/
+thiago-palma-dev
+Meu perfil
+)
 
 ---
 
